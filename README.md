@@ -1,1 +1,1 @@
-# GIFFY
+# GIF
