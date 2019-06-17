@@ -40,7 +40,6 @@ performSearch = (query = 'cats') => {
 
 
   render() { 
-    console.log(this.state.gifs);
     return (
       <div>
         <div className="main-header">
